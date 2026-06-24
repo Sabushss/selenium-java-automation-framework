@@ -1,0 +1,28 @@
+# Maven
+target/
+*.class
+
+# Test Output
+test-output/
+*.html
+*.xml
+!testng.xml
+
+# Screenshots
+screenshots/
+
+# IDE
+.idea/
+*.iml
+.eclipse/
+.classpath
+.project
+.settings/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
